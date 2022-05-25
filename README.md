@@ -1,3 +1,4 @@
+# 🏆 Swift Student Challenge Winner Project - WWDC22 🥳
 # entropy 👾
 
 ➕ Password Cracking Time Calculator ✖️
@@ -21,8 +22,6 @@ https://user-images.githubusercontent.com/60710585/165858203-f7c5aa7a-f4be-4412-
 <!-- Support -->
 ## Support 🎗
 
-If you like the project, don't forget to give stars ⭐️
-
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
@@ -31,3 +30,6 @@ If you like the project, don't forget to give stars ⭐️
 <a href="https://instagram.com/sapkalihacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapkalihacker" height="30" width="40" /></a>
 </p>
 
+If you like the project, please don't forget  give a star ⭐️ or to buy me a coffee ☕️ 
+
+<p align="left"><a href="https://www.buymeacoffee.com/emr4h"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emr4h" /></a></p><br>
