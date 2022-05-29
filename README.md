@@ -1,5 +1,12 @@
-# 🏆 Swift Student Challenge Winner Project - WWDC22 🥳
-# entropy 👾
+<h1 align="left">🏆 Swift Student Challenge Winner Project - WWDC22 🥳 </h1>
+
+I'm happy to share I won the WWDC 22 Swift Student Challenge. This is so exciting! 
+
+This is a prestigious programming competition hosted by Apple where students from all over the world are challenged to create a new iOS app and must show their coding skills and creativity!
+
+<br>
+
+<h1 align="left">entropy 👾 </h1>
 
 ➕ Password Cracking Time Calculator ✖️
 
