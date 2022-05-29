@@ -1,4 +1,5 @@
-<h1 align="left">🏆 Swift Student Challenge Winner Project - WWDC22 🥳 </h1>
+<h1 align="center">Swift Student Challenge Winner Project - WWDC22 </h1>
+<h1 align="center">🏆🥳🏆</h1>
 
 I'm happy to share I won the WWDC 22 Swift Student Challenge. This is so exciting! 
 
